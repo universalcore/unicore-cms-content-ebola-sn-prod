@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "4. Qui sont les personnes qui risquent le plus d\u2019\u00eatre contamin\u00e9es ? ", 
+  "language": "fre_FR", 
+  "title": "4. Qui sont les personnes qui risquent le plus d\u2019\u00eatre contamin\u00e9es ? ", 
+  "primary_category": "24b8e6d93f2c4f18a0cf3de502ba94eb", 
+  "created_at": "2015-01-05T16:14:30.745414+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-05T16:14:30.745786+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Les personnes qui risquent le plus d\u2019\u00eatre contamin\u00e9es sont celles qui sont  proches des malades (famille, parents et amis qui vivent avec la personne malade). Dans les pays affect\u00e9s, les femmes sont particuli\u00e8rement touch\u00e9es par cette maladie, car elles s\u2019occupent le plus souvent des personnes malades au sein des familles.\r\n\r\nLes agents de sant\u00e9 sont aussi expos\u00e9s au virus Ebola lors des soins dispens\u00e9s \u00e0 des personnes  infect\u00e9es, surtout s\u2019ils ne portent pas d\u2019\u00e9quipement de protection individuelle ou n\u2019appliquent pas convenablement les pr\u00e9cautions recommand\u00e9es dans les \u00e9tablissements et services de soins et laboratoires pour soigner les malades ou les personnes qui se pr\u00e9sentent en consultation, ou lors des pr\u00e9l\u00e8vements ou manipulation des produits sanguins.\r\n\r\nLes d\u00e9pouilles des personnes d\u00e9c\u00e9d\u00e9es de la maladie restent tr\u00e8s contagieuses, les personnes qui s\u2019occupent des corps pour la toilette mortuaire ou qui, pendant les rites fun\u00e9raires, ont des contacts directs avec la personne d\u00e9c\u00e9d\u00e9e courent le risque et peuvent \u00eatre infect\u00e9es si les pr\u00e9cautions recommand\u00e9es par les services de sant\u00e9 face \u00e0 ces situations, ne sont pas respect\u00e9es.  \r\n\r\nLes personnes qui manipulent les animaux infect\u00e9s ou mangent de la viande de brousse infect\u00e9e font partie des personnes \u00e0 risques, car certains animaux de brousse infect\u00e9s peuvent \u00e9galement transmettre le virus \u00e0 l\u2019homme. \r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "4-qui-sont-les-personnes-qui-risquent-le-plus-detre-contaminees", 
+  "uuid": "efe407c40b344c24b9c17945ad999ff1"
+}
