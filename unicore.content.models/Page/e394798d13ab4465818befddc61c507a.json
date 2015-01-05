@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "2. Comment une personne peut-elle \u00eatre infect\u00e9e par le virus?", 
+  "language": "fre_FR", 
+  "title": "2. Comment une personne peut-elle \u00eatre infect\u00e9e par le virus?", 
+  "primary_category": "24b8e6d93f2c4f18a0cf3de502ba94eb", 
+  "created_at": "2015-01-05T16:12:57.115456+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-05T16:12:57.116033+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dans la majorit\u00e9 des cas, les modes de transmission surviennent \u00e0 la suite de contacts directs avec les liquides corporels d\u2019une personne infect\u00e9e (sang, salive, sueur, vomissures, urines, selles, sperme, secr\u00e9tions vaginales). Le linge, les  v\u00eatements, le lit et les autres objets  souill\u00e9s provenant d\u2019une personne malade ou d\u00e9c\u00e9d\u00e9e de la malade Ebola peuvent aussi transmettre la maladie. ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "2-comment-une-personne-peut-elle-etre-infectee-par-le-virus", 
+  "uuid": "e394798d13ab4465818befddc61c507a"
+}
