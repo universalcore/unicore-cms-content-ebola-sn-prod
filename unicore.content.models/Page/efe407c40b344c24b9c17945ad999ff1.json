@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "4. Qui sont les personnes qui risquent le plus d\u2019\u00eatre contamin\u00e9es ? ", 
+  "description": "4. Qui sont les personnes qui risquent le plus d\u2019\u00eatre contamin\u00e9es? ", 
   "language": "fre_FR", 
-  "title": "4. Qui sont les personnes qui risquent le plus d\u2019\u00eatre contamin\u00e9es ? ", 
+  "title": "4. Qui sont les personnes qui risquent le plus d\u2019\u00eatre contamin\u00e9es? ", 
   "primary_category": "24b8e6d93f2c4f18a0cf3de502ba94eb", 
-  "created_at": "2015-01-05T16:14:30.745414+00:00", 
+  "created_at": "2015-01-05T16:14:30+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-05T16:25:54.071315+00:00", 
+  "modified_at": "2015-01-05T16:28:20.045832+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
