@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "", 
-  "language": "eng_GB", 
+  "language": "fre_FR", 
   "title": "Site Footer", 
   "primary_category": null, 
   "created_at": "2014-11-11T10:04:07+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-05T16:05:26.352966+00:00", 
+  "modified_at": "2015-01-06T09:22:30.014072+00:00", 
   "_version": {
     "package_version": "0.2.6", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 3, 
+  "position": 17, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "site-footer", 
   "uuid": "bc2c1aa4aa8f4d13955fed90108b4397"
