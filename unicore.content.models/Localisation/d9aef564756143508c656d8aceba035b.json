@@ -1,12 +1,12 @@
 {
   "locale": "fre_FR", 
-  "image": "aa1372a6aa6545c8b8bf8885d261a254", 
+  "image": "de7c399873cb41ec82875145a5ddfdfe", 
   "image_host": "http://thumbor.unicore.io", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "uuid": "d9aef564756143508c656d8aceba035b"
