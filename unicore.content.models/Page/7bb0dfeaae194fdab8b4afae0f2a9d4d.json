@@ -6,12 +6,12 @@
   "primary_category": "24b8e6d93f2c4f18a0cf3de502ba94eb", 
   "created_at": "2015-01-05T16:17:52+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-06-22T19:05:58.375365+00:00", 
+  "modified_at": "2016-06-22T19:18:44.149408+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "4383dfa2220b40b9a214e36761748ac5", 
   "published": null, 
-  "position": 12, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "6-ou-trouver-des-informations-supplementaires-ou-obtenir-des-reponses-vos-questions-sur-ebola", 
   "uuid": "7bb0dfeaae194fdab8b4afae0f2a9d4d"
