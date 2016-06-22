@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "50240b0774474d7494b348fb5047412d"
+  ], 
   "id": null, 
   "content": "Les premiers signes d\u2019Ebola sont :\r\n\r\n- Une fi\u00e8vre soudaine et \u00e9lev\u00e9e ;\r\n- Une tr\u00e8s grande fatigue ;\r\n- Des maux de t\u00eate ;\r\n- Des douleurs musculaires et\r\n- Une perte d\u2019app\u00e9tit. \r\n\r\nAu stade avanc\u00e9, une personne infect\u00e9e peut pr\u00e9senter :\r\n\r\n- des vomissements, \r\n- diarrh\u00e9es, \r\n- \u00e9ruptions cutan\u00e9es et,\r\n- dans certains cas, des saignements. \r\n\r\n**Incubation** : Les sympt\u00f4mes apparaissent entre 2 et 21 jours. \r\n\r\nCe qu'il faut retenir :\r\n\r\n- Le patient devient contagieux d\u00e8s que le malade a des sympt\u00f4mes. \r\n- Sans symptome, un malade n'est pas contagieux. \r\n- Ebola ne peut \u00eatre confirm\u00e9e qu\u2019apr\u00e8s analyse.\r\n\r\nArticle suivant : \r\n", 
   "source": null, 
