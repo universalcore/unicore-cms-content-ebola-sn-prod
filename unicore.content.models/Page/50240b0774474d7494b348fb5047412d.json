@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "2df744721ce645fcb2a8686ec830fb57"
+  ], 
   "id": null, 
   "content": "**Les agents de sant\u00e9**\r\n\r\n- Ils peuvent \u00eatre au contact de malade d'Ebola sans le savoir.\r\n- Les \u00e9quipements de protection et une bonne pr\u00e9paration limitent leur exposition au virus.\r\n\r\n**Les membres de la famille d'un malade**\r\n\r\n- Ils peuvent avoir \u00e9t\u00e9 en contact avec le virus par les liquides corporels du malade ou bien ses v\u00eatements ou linge.\r\n- Notamment les femmes qui s\u2019occupent le plus souvent des personnes malades au sein des familles.\r\n\r\n**Les parents ou amis d'un d\u00e9funt d\u00e9c\u00e9d\u00e9 d'Ebola**\r\n\r\n- Les rites d\u2019inhumation sont propices \u00e0 la propagation du virus.\r\n- Les personnes qui s\u2019occupent de la toilette mortuaire ou qui, pendant les rites fun\u00e9raires, ont des contacts directs avec la personne d\u00e9c\u00e9d\u00e9e.\r\n\r\n**Les malades chroniques**\r\n\r\n- certains personnes, comme les personnes avec une faible immunit\u00e9 ou ceux qui ont des maladies chroniques, sont plus sensibles que d\u2019autres \u00e0 l\u2019infection.\r\n\r\n**Viandes de brousse**\r\n\r\n- Les personnes qui touchent ou mangent de la viande de brousse peuvent \u00eatre infect\u00e9e  car certains animaux infect\u00e9s peuvent transmettre le virus \u00e0 l\u2019homme. \r\n\r\nArticle suivant :\r\n\r\n", 
   "source": null, 
