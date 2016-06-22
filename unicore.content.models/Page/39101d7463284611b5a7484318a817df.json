@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "f04ecab6c1194d9390b17b3447f4102b"
+  ], 
   "id": null, 
   "content": "**Eviter les piq\u00fbres de moustiques :**\r\n\r\n- Appliquer des produits r\u00e9pulsifs ;\r\n- Porter des v\u00eatements longs ;\r\n- Dormir sous moustiquaires ;\r\n\r\n**Prot\u00e9ger plus particuli\u00e8rement :**\r\n\r\n- Les personnes provenant des zones affect\u00e9es ;\r\n- Personnes vuln\u00e9rables : enfants, malades et femmes enceintes ;\r\n\r\n**Environnement**\r\n\r\n- Nettoyage des g\u00eetes larvaires (seaux, bidons, pots de fleurs ou les pneus uses, ...) ;\r\n- Pulv\u00e9risations d\u2019insecticide.", 
   "source": null, 
