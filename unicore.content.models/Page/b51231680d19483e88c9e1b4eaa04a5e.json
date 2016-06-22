@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Se soigner et gu\u00e9rir", 
+  "language": "fre_FR", 
+  "title": "Y-a-t-il un traitement ?", 
+  "primary_category": "f10621e714c94144ac0e27945c526bb2", 
+  "created_at": "2016-06-22T17:29:38.264422+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-06-22T17:29:38.264629+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "On peut traiter les sympt\u00f4mes de la maladie Zika gr\u00e2ce \u00e0 :\r\n\r\n- se reposer ;\r\n- boire beaucoup d'eau ;\r\n- prendre des m\u00e9dicaments contre la douleur et la fi\u00e8vre ;\r\n- surtout, ne pas prendre d\u2019aspirine ni d\u2019anti-inflammatoires non st\u00e9ro\u00efdiens !!\r\n\r\nLes sympt\u00f4mes disparaissent entre 2 et 7 jours.\r\n\r\nSi les sympt\u00f4mes s\u2019aggravent, il convient de consulter un m\u00e9decin.\r\n\r\n**Ce qu'il faut \u00e9galement savoir** : \r\n\r\nIl n\u2019existe ni vaccin contre cette maladie ni traitement sp\u00e9cifique. ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "3a8a1ae543c14ae1b27e962b17ca0e37", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "y-t-il-un-traitement", 
+  "uuid": "b51231680d19483e88c9e1b4eaa04a5e"
+}
