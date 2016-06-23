@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "7bb0dfeaae194fdab8b4afae0f2a9d4d"
+  ], 
   "id": null, 
   "content": "## Recommandations aux voyageurs ##\r\n\r\nL'Organisation Mondiale de la Sant\u00e9 (OMS) recommande aux voyageurs :\r\n\r\n- Eviter tout contact avec des patients infect\u00e9s ; \r\n- Les personnels de sant\u00e9 qui se rendent dans les r\u00e9gions touch\u00e9es doivent suivre strictement les recommandations de l'OMS concernant la lutte contre l'infection.\r\n- Toute personne ayant voyag\u00e9 dans des zones o\u00f9 des cas ont \u00e9t\u00e9 r\u00e9cemment notifi\u00e9s doit conna\u00eetre les sympt\u00f4mes de l\u2019infection et consulter un m\u00e9decin d\u00e8s l\u2019apparition du premier signe de maladie.\r\n- Il est conseill\u00e9 aux m\u00e9decins soignant des voyageurs de retour de zones affect\u00e9es et pr\u00e9sentant des sympt\u00f4mes compatibles d\u2019envisager la possibilit\u00e9 d\u2019une maladie \u00e0 virus Ebola.\r\n\r\n## Questions ##\r\n\r\n\r\n**Y a-t-il des risques \u00e0 se rendre en Guin\u00e9e, Sierra L\u00e9one et Lib\u00e9ria ?**\r\n\r\n- Le risque pour un touriste ou un homme ou une femme d\u2019affaires d\u2019\u00eatre infect\u00e9 par le virus Ebola au cours d\u2019une visite dans ces pays et de contracter la maladie \u00e0 son retour est extr\u00eamement faible.\r\n- Le voyageur doit toutefois rester vigilant en cas d'apparition de sympt\u00f4mes suspects et pr\u00e9venir les services de sant\u00e9.\r\n\r\n**Y a-t-il un risque \u00e0 voyager avec des personnes atteintes de maladie \u00e0 virus Ebola ?**\r\n\r\n- Si la personne ne pr\u00e9sente pas de sympt\u00f4mes, elle ne peut pas transmettre la maladie \u00e0 ceux qui l\u2019entourent. \r\n- Si elle pr\u00e9sente des sympt\u00f4mes, elle doit demander imm\u00e9diatement un avis m\u00e9dical d\u00e8s les premiers signes de la maladie. \r\n- Si les sympt\u00f4mes apparaissent durant le voyage, elle doit imm\u00e9diatement informer le conducteur/pilote et se rendre au service sanitaire le plus proche ou a son arriv\u00e9e\r\n- Les voyageurs pr\u00e9sentant les premiers sympt\u00f4mes sont isol\u00e9s pour \u00e9viter toute transmission. \r\n- L'ensemble des voyageurs sont ainsi consid\u00e9r\u00e9s comme personne contact et feront l'objet d'attention particuli\u00e8re.\r\n\r\n", 
   "source": null, 
