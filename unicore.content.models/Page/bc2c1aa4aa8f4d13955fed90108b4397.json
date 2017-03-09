@@ -3,15 +3,15 @@
   "description": "", 
   "language": "fre_FR", 
   "title": "Site Footer", 
-  "primary_category": null, 
+  "primary_category": "4bd2efa478d743cfb4199cff63eb8c64", 
   "created_at": "2014-11-11T10:04:07+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-21T15:57:12.691666+00:00", 
+  "modified_at": "2017-03-09T09:14:23.283143+00:00", 
   "_version": {
     "package_version": "0.2.6", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 17, 
+  "position": 24, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "site-footer", 
   "uuid": "bc2c1aa4aa8f4d13955fed90108b4397"
